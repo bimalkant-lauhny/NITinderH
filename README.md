@@ -1,2 +1,2 @@
 # NITinderH
-Dating Platform exclusively for NITH
+Dating Web Platform exclusively for NITH
